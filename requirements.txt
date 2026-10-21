@@ -1,0 +1,4 @@
+pandas
+# optional, only for the AI path:
+# google-genai
+# pydantic
