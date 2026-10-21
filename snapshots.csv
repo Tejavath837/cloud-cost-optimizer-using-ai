@@ -1,0 +1,5 @@
+snapshot_id,size_gb,age_days,volume_exists
+snap-01,100,200,no
+snap-02,100,150,no
+snap-03,100,30,yes
+snap-04,100,10,yes

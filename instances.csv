@@ -1,0 +1,5 @@
+name,rate_per_hour
+web-server,0.096
+old-test,0.192
+batch-job,0.384
+half-busy,0.192
